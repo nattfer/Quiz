@@ -1,0 +1,263 @@
+.cuerpo{
+    background-color:rgb(14, 71, 83);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.intro{
+    text-align: center;
+    color: rgb(249, 237, 195);
+}
+
+.parrafo{
+    text-align:center;
+    font-size: x-large;
+    color: white;
+}
+
+.lista{
+    color: rgba(176, 223, 243, 0.93);
+    
+}
+
+.caja{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja2{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja2.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja3{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja3.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja4{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja4.blanca{
+    border: rgba(176, 223, 243, 0.93)solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja5{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja5.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja6{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja6.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja7{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja7.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja8{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja8.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja9{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja9.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja10{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja10.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja11{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja11.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja12{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja12.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja13{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja13.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja14{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja14.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja15{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja15.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja16{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja16.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja17{
+    border: black solid 2px;
+    background-color: black;
+    width: 100 px;
+    margin: 20px;
+}
+
+.caja17.blanca{
+    border: rgba(176, 223, 243, 0.93) solid 2px;
+    background-color: white;
+    width: 100 px;
+    margin: 20px;
+}
+
+#boton{
+    text-align: center;
+}
